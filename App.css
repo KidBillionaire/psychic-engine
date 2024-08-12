@@ -1,0 +1,8 @@
+.body-bg{
+  background-color: black;
+
+  @media (max-width: 1005px) {
+    width: max-width;
+    height: max-height;
+  }
+}
